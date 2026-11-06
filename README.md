@@ -72,15 +72,111 @@ Duckhub provides an AI‑powered QR menu platform for restaurants, enabling owne
 
 Everything profiled for Duckhub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/duck-hub-com/](https://apis.io/providers/duck-hub-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (2)
+
+- [Duckhub Integrations Public API](https://apis.io/apis/duck-hub-com/duck-hub-com-integrationspublic-api/) — The IntegrationsPublic API from Duckhub — 40 operation(s) for integrationspublic.
+- [Duckhub Open API](https://apis.io/apis/duck-hub-com/duck-hub-com-open-api-api/) — The Open API API from Duckhub — 1 operation(s) for open api.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Duck Hub Com Agentic Access](https://apis.io/agentic-access/duck-hub-com/duck-hub-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CleanupDto](https://apis.io/schemas/duck-hub-com/duck-hub-com-cleanup-dto/)
+- [CleanupResponseDto](https://apis.io/schemas/duck-hub-com/duck-hub-com-cleanup-response-dto/)
+- [SyncResponseDto](https://apis.io/schemas/duck-hub-com/duck-hub-com-sync-response-dto/)
+- [V1CreateBannerDto](https://apis.io/schemas/duck-hub-com/duck-hub-com-v1-create-banner-dto/)
+- [V1CreateModifierGroupDto](https://apis.io/schemas/duck-hub-com/duck-hub-com-v1-create-modifier-group-dto/)
+- [V1PatchProductDto](https://apis.io/schemas/duck-hub-com/duck-hub-com-v1-patch-product-dto/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Duck Hub Com Context](https://apis.io/jsonld/duck-hub-com/duck-hub-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Duckhub API Rules](https://apis.io/rules/duck-hub-com/duck-hub-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Duck Hub Com Authentication](https://apis.io/security/duck-hub-com/duck-hub-com-authentication/)
+- [Duck Hub Com Domain Security](https://apis.io/security/duck-hub-com/duck-hub-com-domain-security/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Duck Hub Com Rate Limits](https://apis.io/rate-limits/duck-hub-com/duck-hub-com-rate-limits/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://duck-hub.com/)
+- [Website](https://www.duck-hub.com/)
+- [Documentation](https://docs.duck-hub.com/)
+- [API reference](https://docs.duck-hub.com/reference)
+- [Blog](https://www.duck-hub.com/blog)
+- [Terms of service](https://www.duck-hub.com/terms)
+- [Privacy policy](https://www.duck-hub.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/duck-hub-com/](https://apis.io/providers/duck-hub-com/).
+**Kin Score 45.8** — developing · rubric 0.27.0 · scored 2026-11-06
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 52.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.4 |
+| Developer ergonomics | 37.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 44.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/duck-hub-com/](https://apis.io/providers/duck-hub-com/).
 
 ## How this profile is made
 
