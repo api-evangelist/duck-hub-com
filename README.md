@@ -1,4 +1,4 @@
-# duck-hub-com
+# Duckhub
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,32 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-duck-hub-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://duck-hub.com/
+Duckhub provides an AI‑powered QR menu platform for restaurants, enabling owners to create digital menus in minutes, integrate ChatGPT or Claude for automatic dish descriptions, translate into multiple languages, and sell with zero commission. The service offers a free forever plan and a range of paid features, positioning itself as a no‑fee, AI‑enhanced solution for modern eateries.
+
+**Areas:** AI · QR · Restaurant · SaaS · Menu · Company
+
+## Duckhub on APIs.io
+
+Everything profiled for Duckhub is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/duck-hub-com/](https://apis.io/providers/duck-hub-com/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://duck-hub.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/duck-hub-com/](https://apis.io/providers/duck-hub-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Duckhub: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/duck-hub-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
